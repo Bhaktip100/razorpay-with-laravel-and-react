@@ -98,7 +98,7 @@ This repository demonstrates how to integrate Razorpay in a Laravel backend and 
 4. Add your backend URL in `.env`:
 
    ```env
-  REACT_APP_RAZORPAY_KEY=your_razorpay_key
+   REACT_APP_RAZORPAY_KEY=your_razorpay_key
    ```
 
 5. Start the React development server:
